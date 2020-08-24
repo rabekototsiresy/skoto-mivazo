@@ -14,7 +14,7 @@ function Hira(props) {
                             className="col-lg-4 hira"
                             key={id}
                         >
-                            {element.titre} => {element.auteur}
+                            {element.titre} {element.auteur}
                             <NavLink to={"/tononkira/"+id} >
                                 <button className="btn btn-danger">Hijery</button>
                             </NavLink>

@@ -3,66 +3,184 @@
 		"id":"0",
 		"titre":"Boy skoto",
 		"auteur" : " A/C:ANKOAY MATOTRA TARIKA FEOMANGAN'ANTILY",
-		"refrain":"Hono ho'aho (3) raboy scout<br>Hono ho'aho fa maninona e<br>",
-		"parole":{
-			"0":"Henoy (3) ny filazako azy!<br> Tsy maninona mihitsy ny ankavanana<br> Fa izany no fomba iaraha~manana<br>Fa aleonay ny anay @ ankavia<br>Mifaningotra tsara mifankatia<br>Koa angamba izahay tsa ho diso koa<br>Raha manolotra ny akaikin'ny fo.<br><br>",
-			"1":"2...no mamonjy lanonana vao migety a a?</br></br>Henoy...</br>Mihaja dia mihaja ny kostara</br>Ary tsy misy kiana azo ambara</br>Kanefa ny olona vonon~kiasa</br>Dia manao saorta sy mikapa</br>Koa aleo izahay mba hanao gety</br>na andro malaza na andro fety</br></br>",
-			"2":"3...izato ianareo mifanao ialahy a a</br></br>Henoy...</br>Ny manao ianao re tsy fahotana</br>Kanefa tsy hoe:fomba tsy azo ialana</br>Tsy heloka koa ny manao ise</br>Fa ny manao itena no mampihomehy</br>Ka aleo izahay hifanao ialahy</br>Fa izany no tena mpirahalahy</br>"
-		}
+		"refrain":"Hono ho'aho (3) raboy scout Hono ho'aho fa maninona e",
+		"parole":[
+			[ 
+				"1...Henoy (3) ny filazako azy!", 
+				"Tsy maninona mihitsy ny ankavanana",
+				"Fa izany no fomba iaraha~manana",
+				"Fa aleonay ny anay @ ankavia",
+				"Mifaningotra tsara mifankatia",
+				"Koa angamba izahay tsa ho diso koa",
+				"Raha manolotra ny akaikin'ny fo."
+			],
+			[
+				"2...no mamonjy lanonana vao migety a a?",
+				"Henoy...",
+				"Mihaja dia mihaja ny kostara",
+				"Ary tsy misy kiana azo ambara",
+				"Kanefa ny olona vonon~kiasa",
+				"Dia manao saorta sy mikapa",
+				"Koa aleo izahay mba hanao gety",
+				"na andro malaza na andro fety"
+			],
+			[
+				"3...izato ianareo mifanao ialahy a a",
+				"Henoy...",
+				"Ny manao ianao re tsy fahotana",
+				"Kanefa tsy hoe:fomba tsy azo ialana",
+				"Tsy heloka koa ny manao ise",
+				"Fa ny manao itena no mampihomehy",
+				"Ka aleo izahay hifanao ialahy",
+				"Fa izany no tena mpirahalahy"
+			]
+		]
 	},
 	{
 		"id":"1",
 		"titre":"EMBONA AN~DASY",
-		"auteur" : "ANKOAY MATOTRA<br>TARIKA FEOMANGAN'ANTILY<br>",
-		"refrain":"<b><i>Ngôma Ngôma Zaho Ô!<br>Malahelo Zaho Ô!<br>Manjombonjombon~dava<br> Fa Miezaka Mitraka A!<br>",
-		"parole":{
-			"0":"1~any Izao Dadanay<br> Mahatsiaro Ny Zanany<br> F'izaho Kosa Aty<br>Manembonembona Azy<br>",
-			"1":"2~any Izao Neninay<br> Mahatsiaro Ny Zanany<br> Izaho Kosa Aty<br> Toa Tsy Ampy Hantahanta<br>",
-			"2":"3~any Izao Zokinay<br> Mahatsiaro Ireo Adiady<br> Izaho Kosa Aty<br> Variana Mikorana<br>",
-            "3":"4~any Izao Zandrinay<br> Manontany Hoe:nankaiza Ny Zokiny?<br> Izaho Kosa Aty Variana Milalao.<br> <br>"
-		}
+		"auteur" : "ANKOAY MATOTRA TARIKA FEOMANGAN'ANTILY",
+		"refrain":"Ngôma Ngôma Zaho Ô! Malahelo Zaho Ô! Manjombonjombon~dava  Fa Miezaka Mitraka A!",
+		"parole":[
+			[
+				"1~any Izao Dadanay",
+				"Mahatsiaro Ny Zanany",
+				"F'izaho Kosa Aty",
+				"Manembonembona Azy"
+			],
+			[
+				"2~any Izao Neninay",
+				" Mahatsiaro Ny Zanany",
+				" Izaho Kosa Aty",
+				" Toa Tsy Ampy Hantahanta"
+			],
+			[
+				"3~any Izao Zokinay",
+				"Mahatsiaro Ireo Adiady",
+				"Izaho Kosa Aty",
+				"Variana Mikorana"
+			],
+            [
+            	"4~any Izao Zandrinay",
+	            "Manontany Hoe:nankaiza Ny Zokiny?",
+	            "Izaho Kosa Aty Variana Milalao."
+	        ]
+
+		]
 	},
 	{
 		"id":"2",
 		"titre":"VELOMA RY TANANA!",
-		"auteur" : "A/C ANKOAY MATOTRA ALBUM 1 FEOMANGAN'ANTILY </b> <br> Hira Famaranana Afon~dasy/fanaovam~belona Ny Fiaraha~monina Ao @ Toera~pilasiana",
-		"refrain":"veloma ianareo ry tompon~tanàna a<br> veloma tsy ho mandrakizay eee<br> veloma tsy sanatria tsy tamana a<br> fa efa mba miandry ihany koa ny aminay.<br>",
-		"parole":{
-			"0":"1~Andro vitsivitsy izahay no niaina tamin'ity Tanàna Ity ee<br> saika tamana sy hitoetra kanefa ny fotoana dia manam~petra eee</i><br>",
-			"1":"2~na mpivahiny ary izahay antily (tily) dia noraisinareo toy havanareo ô<br> tsy mba voaavaka ,nifangaro ka hovaliana raha mahatsiaro ô<br>",
-			"2":"3~misy aminay aza mba maniry fa mbola hiverina honina eto ô<br> tsy sanatria re misangisangy fa mety ho eto mihitsy no haka vady e<br>"
-		}
+		"auteur" : "A/C ANKOAY MATOTRA ALBUM 1 FEOMANGAN'ANTILY Hira Famaranana Afon~dasy/fanaovam~belona Ny Fiaraha~monina Ao @ Toera~pilasiana",
+		"refrain":"veloma ianareo ry tompon~tanàna a  veloma tsy ho mandrakizay eee  veloma tsy sanatria tsy tamana a fa efa mba miandry ihany koa ny aminay.",
+		"parole":[
+			[
+				"1~Andro vitsivitsy izahay no niaina tamin'ity Tanàna Ity ee",
+				"saika tamana sy hitoetra kanefa ny fotoana dia manam~petra eee"
+			],
+
+			[
+				"2~na mpivahiny ary izahay antily (tily) dia noraisinareo toy havanareo ô",
+				"tsy mba voaavaka ,nifangaro ka hovaliana raha mahatsiaro ô"
+			],
+
+			[
+				"3~misy aminay aza mba maniry fa mbola hiverina honina eto ô",
+				"tsy sanatria re misangisangy fa mety ho eto mihitsy no haka vady e"
+			]
+
+		]
 	},
 	{
 		"id":"3",
 		"titre":"Razokinibe",
-		"auteur" : "A/C:ANKOAY MATOTRA<br>ALBUM 1 FEOMANGAN'ANTILY",
-		"refrain":"<i>Nanao Skoto Razokinibe E E<br> Nandeha Tongotra Lavitra Be Ka Nikilepalepa Tsy Afa~nandeha E<br> Nanao Skoto Razokinibe E E<br> Efa Dadazily E!Vao Nanapa~kevitra Ny Hanao Antily E<br> Ka Henoy Fa Ho Tantaraiko Anao...</i><br>",
-		"parole":{
-			"0":"1~indray Andro Izy Nandeha Nilasy<br> Loza Fa Adinony Ny Taratasy<br> Nanara~pofona Nipitrapitra<br> Hay Ity Razokiny Ity Tsisy Fika Aminay Rehetra Nanatrika Teo.<br>",
-			"1":"2~indray Andro Izy Nanao An~tsaha<br> Raikitra Ny Fizaran~draharaha<br> Anjaran~drazoky No Naka Kitay<br> Ka Tena Latsaka Hatramin'ny Hehinay Rehetra Nanatrika Teo.<br>",
-			"2":"3~nisy Ny Sedra Izay Niendrika Bal<br> Niara~nifoha Tamin'ny Sasak'alina<br> Nahery Setra Ny Jeu De Nuit<br> Ka Tena Latsaka Hatramin'ny Tonianay Izay Tonga Nanatrika Teo.<br>",
-			"3":"4~raikitra Indray Ary Ny Afon~dasy<br> Nidongy Razoky Ny Hanao Hira Gasy<br> Ireo Sefo Sasany Kinaolonaolo<br> Voatery Mba Nanao Dihin'ny Ntaolo Izahay Rehetra Nanatrika Teo.<br> <br> Faranana Amin'ny Fiverenana Ary Mivadika Ho:toy Izay Notantaraiko Anao...<br>"
-		}
+		"auteur" : "A/C:ANKOAY MATOTRA ALBUM 1 FEOMANGANANTILY",
+		"refrain":"Nanao Skoto Razokinibe E E Nandeha Tongotra Lavitra Be Ka Nikilepalepa Tsy Afa~nandeha E  Nanao Skoto Razokinibe E E  Efa Dadazily E!Vao Nanapa~kevitra Ny Hanao Antily E  Ka Henoy Fa Ho Tantaraiko Anao...",
+		"parole":[
+			[
+				"1~indray Andro Izy Nandeha Nilasy",
+				"Loza Fa Adinony Ny Taratasy",
+				"Nanara~pofona Nipitrapitra",
+				"Hay Ity Razokiny Ity Tsisy Fika Aminay Rehetra Nanatrika Teo."
+			],
+			[
+				"2~indray Andro Izy Nanao An~tsaha",
+				"Raikitra Ny Fizaran~draharaha",
+				"Anjaran~drazoky No Naka Kitay",
+				"Ka Tena Latsaka Hatramin'ny Hehinay Rehetra Nanatrika Teo."
+			],
+			[
+				"3~nisy Ny Sedra Izay Niendrika Bal",
+				"Niara~nifoha Tamin'ny Sasak'alina",
+				"Nahery Setra Ny Jeu De Nuit",
+				"Ka Tena Latsaka Hatramin'ny Tonianay Izay Tonga Nanatrika Teo."
+			],
+			[
+				"4~raikitra Indray Ary Ny Afon~dasy",
+				"Nidongy Razoky Ny Hanao Hira Gasy",
+				"Ireo Sefo Sasany Kinaolonaolo",
+				"Voatery Mba Nanao Dihin'ny Ntaolo Izahay Rehetra Nanatrika Teo.",
+				"Faranana Amin'ny Fiverenana Ary Mivadika Ho:toy Izay Notantaraiko Anao..."
+			]
+		]
 	},
 	{
 		"id":"4",
 		"titre":"Saholy",
 		"auteur" : "Anonyme",
-		"refrain":" <i> indrisy tsy sy valiny iii <br> zay nalefako tany aminao ah ah ah ...<br> fa izao aty malahelo<br>",
-		"parole":{
-			"0":"Maromaro mijaly eee<br> any ambadibadikany×2<br> indrisy misy iany nadia kely <br> Bso misy bidika iany nadia kely<br> <br>",
-			"1":"saholy malalako iny eieie<br> zay no ozy ka zao no tadidio <br> indrisy misy ihany nadia kely<br> indrisy misy bitika iany ah ah.. ny <br> fa izao aty malahelo<br>"
-		}
+		"refrain":"indrisy tsy sy valiny iii  zay nalefako tany aminao ah ah ah ... fa izao aty malahelo",
+		"parole":[
+			[
+				"Maromaro mijaly eee",
+				"any ambadibadikany×2",
+				"indrisy misy iany nadia kely ",
+				"Bso misy bidika iany nadia kely"
+			],
+			[
+				"saholy malalako iny eieie",
+				"zay no ozy ka zao no tadidio ",
+				"indrisy misy ihany nadia kely",
+				"indrisy misy bitika iany ah ah.. ny ",
+				"fa izao aty malahelo"
+			]
+		]
 	},
 	{
 		"id":"5",
 		"titre":"MITSAKARAKA",
 		"auteur" : "<b>A/C :ANKOAY MATOTRA</b>",
-		"refrain":"Mahavita Mitsakaraka E Izahay Antily (Tily) Izao E E E.<br> Mahavita Mitsakaraka!<br> Mitsakarakaraka E Ia(beso)<br> <br>",
-		"parole":{
-			"0":"Moramora Ikoranako Azy<br> Nandeha Nilasy Izahay Tamin'izay<br> Efa Vonona Teo Ary Ny Kitay<br> Noana Ka Hoe:ndeha Hanokom~bary<br> Hay Kay Adinonay Ny Vilany.<br> Raikitra Teo Re Ny Fikafika<br> Ka Navoaka Ity Sase Plastika<br> <br> Na Tsy Misy Vilany E!Mahamasa~bary Hatrany E<br> Vitanay Ilay Adkle<br> Mihoatra Noho Ny Anao Ry Crysoe (beso)<br> <br> Izay Ilay Tekinika Mampitolagaga Antsika Ee<br> Iainanay Mpanara~dia<br> Ny Toe~tsain'ilay Antsoina Hoe: Bipi (beso)<br> <br>",
-			"1":"Jijy 02:<br> Moramora Ikoranako Azy<br> Nanao Rodorodo Izahay Tamin'izay<br> Ary Efa Lasa Aloha Ireo Namanay<br> Izahay Moa Efa Taratara<br> Tsy Maintsy Manenjika Avy Ato Afara<br> Tsy Misy Afaka Handany Fotoana Izany<br> Ka Sady Nandeha No Nahandro Vary.<br> Tsy Mba Honohono Re Ilay Fatana Mandeha Eee<br> Vitanay Anie Ilay Sera<br> Mihoatra No Ny Anao Re Ry Mac Gyver (beso)<br> <br> Izay Ilay Tekinika Mampitolagaga Antsika E<br> Iainanay Mpanara~dia<br> Ny Toe~tsain'ilay Antsoina Hoe: Bipi (beso)<br> <br>"
-		}
+		"refrain":"Mahavita Mitsakaraka E Izahay Antily (Tily) Izao E E E.  Mahavita Mitsakaraka!  Mitsakarakaraka E Ia(beso)",
+		"parole":[
+			[
+				"Moramora Ikoranako Azy",
+				"Nandeha Nilasy Izahay Tamin'izay",
+				"Efa Vonona Teo Ary Ny Kitay",
+				"Noana Ka Hoe:ndeha Hanokom~bary",
+				"Hay Kay Adinonay Ny Vilany.",
+				"Raikitra Teo Re Ny Fikafika",
+				"Ka Navoaka Ity Sase Plastika",
+				"Na Tsy Misy Vilany E!Mahamasa~bary Hatrany E",
+				"Vitanay Ilay Adkle",
+				"Mihoatra Noho Ny Anao Ry Crysoe (beso)",
+				"zay Ilay Tekinika Mampitolagaga Antsika Ee",
+				"Iainanay Mpanara~dia",
+				"Ny Toe~tsain'ilay Antsoina Hoe: Bipi (beso)"
+			],
+			[
+				"Jijy 02",
+				"Moramora Ikoranako Azy",
+				"Nanao Rodorodo Izahay Tamin'izay",
+				"Ary Efa Lasa Aloha Ireo Namanay",
+				"Izahay Moa Efa Taratara",
+				"Tsy Maintsy Manenjika Avy Ato Afara",
+				"Tsy Misy Afaka Handany Fotoana Izany",
+				"a Sady Nandeha No Nahandro Vary.",
+				"Tsy Mba Honohono Re Ilay Fatana Mandeha Eee",
+				"Vitanay Anie Ilay Sera"," Mihoatra No Ny Anao Re Ry Mac Gyver (beso)",
+				"Izay Ilay Tekinika Mampitolagaga Antsika E",
+				"ainanay Mpanara~dia",
+				"Ny Toe~tsain'ilay Antsoina Hoe: Bipi (beso)"
+			]
+		]
 	}
 ]
