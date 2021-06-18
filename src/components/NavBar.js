@@ -12,8 +12,8 @@ function NavBar() {
                 </li>
                 <li>Hira
                     <ol>
-                        <li>second item first subitem</li>
-                        <li>second item second subitem</li>
+                        <li>first item first subitem</li>
+                        <li>first second subitem</li>
                         <li>second item third subitem</li>
                         <li>second item third subitem</li>
                         <li>second item third subitem</li>
